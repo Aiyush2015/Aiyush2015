@@ -1,0 +1,8 @@
+
+
+
+<picture>
+    <source srcset="assets/images/project2.webp" type="image/webp">
+    <source srcset="assets/images/project2.jpg" type="image/jpg">
+    <img src="assets/images/project2.jpg" alt="">
+</picture>
